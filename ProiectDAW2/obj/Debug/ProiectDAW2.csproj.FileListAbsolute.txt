@@ -1,0 +1,856 @@
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\obj\Debug\ProiectDAW2.csprojAssemblyReference.cache
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\obj\Debug\ProiectDAW2.csproj.CoreCompileInputs.cache
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\ProiectDAW2.dll.config
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\ProiectDAW2.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\ProiectDAW2.pdb
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\roslyn\csc.exe
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\roslyn\csc.exe.config
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\roslyn\csc.rsp
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\roslyn\csi.exe
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\roslyn\csi.exe.config
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\roslyn\csi.rsp
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\roslyn\System.AppContext.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Collections.Immutable.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Console.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\roslyn\System.IO.Compression.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\roslyn\System.IO.FileSystem.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\roslyn\System.IO.Pipes.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Reflection.Metadata.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Security.AccessControl.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Security.Claims.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\roslyn\System.ValueTuple.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Xml.XPath.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\roslyn\vbc.exe
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\roslyn\vbc.exe.config
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\roslyn\vbc.rsp
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\roslyn\VBCSCompiler.exe
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\roslyn\VBCSCompiler.exe.config
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\Antlr3.Runtime.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\EntityFramework.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\EntityFramework.SqlServer.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Google.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\Microsoft.Web.Infrastructure.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\Newtonsoft.Json.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\Owin.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\System.Web.Helpers.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\System.Web.Mvc.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\System.Web.Optimization.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\System.Web.Razor.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\System.Web.WebPages.Deployment.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\System.Web.WebPages.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\System.Web.WebPages.Razor.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\WebGrease.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\System.Web.Helpers.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\System.Web.Mvc.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\System.Web.Optimization.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\System.Web.Razor.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\System.Web.WebPages.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\System.Web.WebPages.Deployment.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\System.Web.WebPages.Razor.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\Newtonsoft.Json.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\Antlr3.Runtime.pdb
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\EntityFramework.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\EntityFramework.SqlServer.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Google.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\obj\Debug\ProiectDAW2.csproj.CopyComplete
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\obj\Debug\ProiectDAW2.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\obj\Debug\ProiectDAW2.pdb
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\obj\Debug\ProiectDAW2.Migrations.Initial.resources
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\obj\Debug\ProiectDAW2.csproj.GenerateResource.cache
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\ProiectDAW2.dll.config
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\ProiectDAW2.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\ProiectDAW2.pdb
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\csc.exe
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\csc.exe.config
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\csc.rsp
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\csi.exe
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\csi.exe.config
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\csi.rsp
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.AppContext.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Collections.Immutable.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Console.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.IO.Compression.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.IO.FileSystem.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.IO.Pipes.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Reflection.Metadata.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Security.AccessControl.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Security.Claims.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.ValueTuple.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Xml.XPath.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\vbc.exe
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\vbc.exe.config
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\vbc.rsp
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\VBCSCompiler.exe
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\VBCSCompiler.exe.config
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Antlr3.Runtime.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\EntityFramework.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\EntityFramework.SqlServer.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Google.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Web.Infrastructure.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Newtonsoft.Json.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Owin.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\System.Web.Helpers.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\System.Web.Mvc.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\System.Web.Optimization.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\System.Web.Razor.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\System.Web.WebPages.Deployment.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\System.Web.WebPages.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\System.Web.WebPages.Razor.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\WebGrease.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\System.Web.Helpers.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\System.Web.Mvc.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\System.Web.Optimization.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\System.Web.Razor.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\System.Web.WebPages.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\System.Web.WebPages.Deployment.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\System.Web.WebPages.Razor.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Newtonsoft.Json.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Antlr3.Runtime.pdb
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\EntityFramework.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\EntityFramework.SqlServer.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Google.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\obj\Debug\ProiectDAW2.csprojAssemblyReference.cache
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\obj\Debug\ProiectDAW2.csproj.CoreCompileInputs.cache
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\obj\Debug\ProiectDAW2.csproj.CopyComplete
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\obj\Debug\ProiectDAW2.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\obj\Debug\ProiectDAW2.pdb
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\obj\Debug\ProiectDAW2.Migrations.Initial.resources
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\obj\Debug\ProiectDAW2.csproj.GenerateResource.cache
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\ProiectDAW2.dll.config
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\ProiectDAW2.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\ProiectDAW2.pdb
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\csc.exe
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\csc.exe.config
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\csc.rsp
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\csi.exe
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\csi.exe.config
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\csi.rsp
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.AppContext.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Collections.Immutable.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Console.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.IO.Compression.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.IO.FileSystem.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.IO.Pipes.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Reflection.Metadata.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Security.AccessControl.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Security.Claims.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.ValueTuple.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Xml.XPath.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\vbc.exe
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\vbc.exe.config
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\vbc.rsp
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\VBCSCompiler.exe
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\VBCSCompiler.exe.config
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Antlr3.Runtime.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\EntityFramework.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\EntityFramework.SqlServer.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Google.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Web.Infrastructure.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Newtonsoft.Json.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Owin.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\System.Web.Helpers.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\System.Web.Mvc.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\System.Web.Optimization.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\System.Web.Razor.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\System.Web.WebPages.Deployment.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\System.Web.WebPages.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\System.Web.WebPages.Razor.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\WebGrease.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\System.Web.Helpers.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\System.Web.Mvc.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\System.Web.Optimization.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\System.Web.Razor.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\System.Web.WebPages.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\System.Web.WebPages.Deployment.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\System.Web.WebPages.Razor.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Newtonsoft.Json.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Antlr3.Runtime.pdb
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\EntityFramework.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\EntityFramework.SqlServer.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Google.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\obj\Debug\ProiectDAW2.csprojAssemblyReference.cache
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\obj\Debug\ProiectDAW2.csproj.CoreCompileInputs.cache
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\obj\Debug\ProiectDAW2.csproj.CopyComplete
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\obj\Debug\ProiectDAW2.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\obj\Debug\ProiectDAW2.pdb
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\ProiectDAW2.dll.config
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\ProiectDAW2.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\ProiectDAW2.pdb
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\roslyn\csc.exe
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\roslyn\csc.exe.config
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\roslyn\csc.rsp
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\roslyn\csi.exe
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\roslyn\csi.exe.config
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\roslyn\csi.rsp
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\roslyn\System.AppContext.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Collections.Immutable.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Console.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\roslyn\System.IO.Compression.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\roslyn\System.IO.FileSystem.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\roslyn\System.IO.Pipes.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Reflection.Metadata.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Security.AccessControl.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Security.Claims.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Security.Principal.Windows.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\roslyn\System.ValueTuple.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Xml.XPath.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\roslyn\vbc.exe
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\roslyn\vbc.exe.config
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\roslyn\vbc.rsp
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\roslyn\VBCSCompiler.exe
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\roslyn\VBCSCompiler.exe.config
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\Antlr3.Runtime.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\EntityFramework.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\EntityFramework.SqlServer.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\Microsoft.AspNet.Identity.Core.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Cookies.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Facebook.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Google.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.OAuth.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Twitter.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\Microsoft.Web.Infrastructure.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\Newtonsoft.Json.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\Owin.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\System.Web.Helpers.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\System.Web.Mvc.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\System.Web.Optimization.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\System.Web.Razor.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\System.Web.WebPages.Deployment.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\System.Web.WebPages.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\System.Web.WebPages.Razor.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\WebGrease.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\System.Web.Helpers.xml
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\System.Web.Mvc.xml
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\System.Web.Optimization.xml
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\System.Web.Razor.xml
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\System.Web.WebPages.xml
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\System.Web.WebPages.Deployment.xml
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\System.Web.WebPages.Razor.xml
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\Newtonsoft.Json.xml
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\Antlr3.Runtime.pdb
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\EntityFramework.xml
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\EntityFramework.SqlServer.xml
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\Microsoft.AspNet.Identity.Core.xml
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.xml
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.xml
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Facebook.xml
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Cookies.xml
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Google.xml
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Twitter.xml
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.OAuth.xml
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\obj\Debug\ProiectDAW2.csprojAssemblyReference.cache
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\obj\Debug\ProiectDAW2.Migrations.Initial.resources
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\obj\Debug\ProiectDAW2.csproj.GenerateResource.cache
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\obj\Debug\ProiectDAW2.csproj.CoreCompileInputs.cache
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\obj\Debug\ProiectDAW2.csproj.CopyComplete
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\obj\Debug\ProiectDAW2.dll
+D:\facultate\ANUL II\SEMESTRUL I\DEZVOLTAREA APLICATIILOR WEB\LABORATOR\PROIECT\COMANDA\ProiectDAW2\ProiectDAW2\obj\Debug\ProiectDAW2.pdb
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\ProiectDAW2.dll.config
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\ProiectDAW2.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\ProiectDAW2.pdb
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\roslyn\csc.exe
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\roslyn\csc.exe.config
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\roslyn\csc.rsp
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\roslyn\csi.exe
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\roslyn\csi.exe.config
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\roslyn\csi.rsp
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\roslyn\System.AppContext.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Collections.Immutable.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Console.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\roslyn\System.IO.Compression.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\roslyn\System.IO.FileSystem.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\roslyn\System.IO.Pipes.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Reflection.Metadata.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Security.AccessControl.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Security.Claims.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\roslyn\System.ValueTuple.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Xml.XPath.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\roslyn\vbc.exe
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\roslyn\vbc.exe.config
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\roslyn\vbc.rsp
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\roslyn\VBCSCompiler.exe
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\roslyn\VBCSCompiler.exe.config
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\Antlr3.Runtime.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\EntityFramework.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\EntityFramework.SqlServer.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Google.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\Microsoft.Web.Infrastructure.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\Newtonsoft.Json.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\Owin.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\System.Web.Helpers.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\System.Web.Mvc.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\System.Web.Optimization.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\System.Web.Razor.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\System.Web.WebPages.Deployment.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\System.Web.WebPages.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\System.Web.WebPages.Razor.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\WebGrease.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\System.Web.Helpers.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\System.Web.Mvc.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\System.Web.Optimization.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\System.Web.Razor.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\System.Web.WebPages.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\System.Web.WebPages.Deployment.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\System.Web.WebPages.Razor.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\Newtonsoft.Json.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\Antlr3.Runtime.pdb
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\EntityFramework.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\EntityFramework.SqlServer.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Google.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\obj\Debug\ProiectDAW2.csprojAssemblyReference.cache
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\obj\Debug\ProiectDAW2.Migrations.Initial.resources
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\obj\Debug\ProiectDAW2.csproj.GenerateResource.cache
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\obj\Debug\ProiectDAW2.csproj.CoreCompileInputs.cache
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\obj\Debug\ProiectDAW2.csproj.CopyComplete
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\obj\Debug\ProiectDAW2.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2T\ProiectDAW2\ProiectDAW2\obj\Debug\ProiectDAW2.pdb
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\ProiectDAW2.dll.config
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\ProiectDAW2.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\ProiectDAW2.pdb
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\csc.exe
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\csc.exe.config
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\csc.rsp
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\csi.exe
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\csi.exe.config
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\csi.rsp
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.AppContext.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Console.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\vbc.exe
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\vbc.exe.config
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\vbc.rsp
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Antlr3.Runtime.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\EntityFramework.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\EntityFramework.SqlServer.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Newtonsoft.Json.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Owin.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\System.Web.Helpers.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\System.Web.Mvc.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\System.Web.Optimization.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\System.Web.Razor.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\System.Web.WebPages.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\WebGrease.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\System.Web.Helpers.xml
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\System.Web.Mvc.xml
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\System.Web.Optimization.xml
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\System.Web.Razor.xml
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\System.Web.WebPages.xml
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Newtonsoft.Json.xml
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Antlr3.Runtime.pdb
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\EntityFramework.xml
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\EntityFramework.SqlServer.xml
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.xml
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.xml
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\obj\Debug\ProiectDAW2.csprojAssemblyReference.cache
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\obj\Debug\ProiectDAW2.Migrations.Initial.resources
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\obj\Debug\ProiectDAW2.csproj.GenerateResource.cache
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\obj\Debug\ProiectDAW2.csproj.CoreCompileInputs.cache
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\obj\Debug\ProiectDAW2.csproj.CopyComplete
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\obj\Debug\ProiectDAW2.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\ProiectDAW2\obj\Debug\ProiectDAW2.pdb
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\obj\Debug\ProiectDAW2.Migrations.Initial.resources
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\obj\Debug\ProiectDAW2.csproj.GenerateResource.cache
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\ProiectDAW2.dll.config
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\ProiectDAW2.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\ProiectDAW2.pdb
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\csc.exe
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\csc.exe.config
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\csc.rsp
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\csi.exe
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\csi.exe.config
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\csi.rsp
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.AppContext.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Collections.Immutable.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Console.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.IO.Compression.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.IO.FileSystem.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.IO.Pipes.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Reflection.Metadata.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Security.AccessControl.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Security.Claims.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.ValueTuple.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Xml.XPath.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\vbc.exe
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\vbc.exe.config
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\vbc.rsp
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\VBCSCompiler.exe
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\roslyn\VBCSCompiler.exe.config
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Antlr3.Runtime.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\EntityFramework.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\EntityFramework.SqlServer.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Google.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Web.Infrastructure.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Newtonsoft.Json.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Owin.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\System.Web.Helpers.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\System.Web.Mvc.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\System.Web.Optimization.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\System.Web.Razor.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\System.Web.WebPages.Deployment.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\System.Web.WebPages.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\System.Web.WebPages.Razor.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\WebGrease.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\System.Web.Helpers.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\System.Web.Mvc.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\System.Web.Optimization.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\System.Web.Razor.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\System.Web.WebPages.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\System.Web.WebPages.Deployment.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\System.Web.WebPages.Razor.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Newtonsoft.Json.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Antlr3.Runtime.pdb
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\EntityFramework.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\EntityFramework.SqlServer.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Google.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\obj\Debug\ProiectDAW2.csprojAssemblyReference.cache
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\obj\Debug\ProiectDAW2.Migrations.Initial.resources
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\obj\Debug\ProiectDAW2.csproj.GenerateResource.cache
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\obj\Debug\ProiectDAW2.csproj.CoreCompileInputs.cache
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\obj\Debug\ProiectDAW2.csproj.CopyComplete
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\obj\Debug\ProiectDAW2.dll
+D:\Facultate\Anul II\Semestrul 1\DAW\Proiect\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\ProiectDAW2\obj\Debug\ProiectDAW2.pdb
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\ProiectDAW2.dll.config
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\ProiectDAW2.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\ProiectDAW2.pdb
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\roslyn\csc.exe
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\roslyn\csc.exe.config
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\roslyn\csc.rsp
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\roslyn\csi.exe
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\roslyn\csi.exe.config
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\roslyn\csi.rsp
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\roslyn\System.AppContext.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Console.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\roslyn\vbc.exe
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\roslyn\vbc.exe.config
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\roslyn\vbc.rsp
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\Antlr3.Runtime.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\EntityFramework.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\EntityFramework.SqlServer.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\Newtonsoft.Json.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\Owin.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\System.Web.Helpers.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\System.Web.Mvc.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\System.Web.Optimization.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\System.Web.Razor.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\System.Web.WebPages.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\WebGrease.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\System.Web.Helpers.xml
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\System.Web.Mvc.xml
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\System.Web.Optimization.xml
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\System.Web.Razor.xml
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\System.Web.WebPages.xml
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\Newtonsoft.Json.xml
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\Antlr3.Runtime.pdb
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\EntityFramework.xml
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\EntityFramework.SqlServer.xml
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.xml
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.xml
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\obj\Debug\ProiectDAW2.csprojAssemblyReference.cache
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\obj\Debug\ProiectDAW2.Migrations.Initial.resources
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\obj\Debug\ProiectDAW2.csproj.GenerateResource.cache
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\obj\Debug\ProiectDAW2.csproj.CoreCompileInputs.cache
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\obj\Debug\ProiectDAW2.csproj.CopyComplete
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\obj\Debug\ProiectDAW2.dll
+C:\Users\Ilies-PC\OneDrive\Desktop\ProiectDAW2\ProiectDAW2\obj\Debug\ProiectDAW2.pdb

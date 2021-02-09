@@ -1,0 +1,389 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    background-color: #D9A964;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+button:focus, .button_class {
+    outline: 0;
+}
+
+/* DESIGN */
+
+/* Meniu */
+#menu {
+    background-color: #723A20;
+    border-bottom: 2px dotted #9E6336;
+}
+
+#menu a {
+    font-family: "Lobster";
+    text-decoration: none;
+    font-size: 18px;
+    color:#c19a6b;
+}
+
+#logo a, #logo1 {
+    font-family: "Fascinate Inline";
+    font-size: 20px;
+    color: #f2dbba;
+}
+
+/* Index */
+
+.buttonsM a {
+    background-color: #723A20;
+    font-family: "Cantata One";
+    font: bold;
+    color: #c19a6b;
+    margin-left: 13px;
+}
+
+.panel-product {
+    border: 1mm inset #9E6336 !important;
+    background-color: #9E6336;
+}
+
+.div_index, .nav_index ul {
+    background-color: #D9A964;
+}
+
+#sort_text {
+    font-family: "Roboto Slab";
+    margin-left: 1.1rem;
+    font-size: 16px;
+    color: #c19a6b;
+}
+
+#sort_text_text {
+    color:black;
+}
+
+.dropdown {
+    background-color: #723A20;
+    border: 1px dotted #9E6336;
+    height: 10%;
+}
+
+.polaroid {
+    background-color: #9E6336;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.polaroid img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:10px;
+    border: 1mm inset #9E6336 !important;
+}
+
+.pol {
+    text-align: center;
+    padding: 10px 20px;
+    font-family: "Roboto Slab";
+    font-size:18px;
+}
+
+.button_show {
+    display: table;
+    margin: 0 auto;
+    background-color: #723A20;
+    margin-top: 15px;
+}
+
+.button_show a, .Aplica_Sortarea, .input_search, .afiseaza_categ a {
+    font-family: "Cantata One";
+    color: #c19a6b;
+    background-color: #723A20;
+}
+
+.Aplica_Sortarea button, .input_search button {
+    background-color: #723A20;
+    border-color: #723A20 !important;
+    height:30px;
+}
+
+.input_search input {
+    box-sizing: border-box;
+    border:none;
+    background-color: white;
+    padding-left: 7px;
+    font-family: "Roboto Slab";
+    font-size:15px;
+    margin-left: 1.1rem;
+    background-color: #723A20;
+}
+
+.title {
+    text-align: center;
+    font-family: "Acme";
+    font-size:40px;
+}
+
+.message {
+    margin-left: 2rem;
+    font-family: "Hammersmith One";
+    font-size: 30px;
+    text-decoration-line: underline;
+}
+
+/* Index -> Categorii */
+
+.panel-categories {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 80%;
+    margin: 10px auto;
+    position: relative;
+    background-color: #D9A964;
+}
+
+.inside {
+    margin: 10px;
+    background-color: #9E6336;
+    border: 1mm inset #723A20 !important;
+    min-width:10rem;
+    min-height:10rem;
+}
+
+.inside_name {
+    text-align: center;
+    font-family: "Roboto Slab";
+    font-size: 16px;
+    margin-top: 2rem;
+}
+
+.afiseaza_categ{
+    margin:2rem;
+}
+
+/* Show Categorii */
+.show_category_name {
+    text-align: center;
+    font-family: "Roboto Slab";
+    font-size: 16px;
+    padding: 1rem;
+}
+
+.show_categ{
+    background-color: #9E6336;
+    border: solid #723A20;
+}
+
+.footer_categ {
+    background-color: #9E6336;
+    border: solid #723A20;
+    margin:10px;
+}
+
+.footer_categ a, .footer_categ button, .button_class {
+    font-family: "Cantata One";
+    color: #c19a6b;
+    background-color: #723A20;
+    outline:none;
+    border:none;
+}
+
+/* Edit + New */
+.label_class {
+    font-family: "Roboto Slab";
+    font-size: 16px;
+    padding-top: 1rem;
+    padding-bottom: 0.5rem;
+}
+
+.input_class, #input_class {
+    box-sizing: border-box;
+    padding-left: 7px;
+    font-size: 17px;
+    background-color: #c19a6b;
+    border: 1mm inset #723A20 !important;
+}
+
+/* Cos de cumparaturi */
+
+.shopping_cart {
+    background-color: #9E6336;
+    border: solid #723A20;
+    margin:2%;
+    position:relative;
+}
+
+.shopping_cart img{
+    display: block;
+    margin-top: 12px;
+    margin-bottom: 8px;
+    margin-left:10%;
+}
+
+.shopping_cart p:nth-child(2) {
+    margin-left: 30%;
+    margin-top: 5%; 
+    font-family: "Cantata One";
+    font-size:18px;
+    padding-left:30px;
+}
+
+.shopping_cart p:nth-child(3) {
+    margin-left: 30%;
+    padding: 10px 14px;
+    font-family: "Roboto Slab";
+    font-size:16px;
+    text-indent:16px;
+}
+
+.shopping_cart button {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    font-family: "Cantata One";
+    color: #c19a6b;
+    background-color: #723A20;
+    border-radius: 1px;
+    box-shadow: 0px 0px 0px 2px rgba(217, 169, 100,0.25);
+}
+
+.viz {
+    position: absolute;
+    bottom: 1rem;
+    right: 1rem;
+    font-family: "Cantata One";
+    color: #c19a6b;
+    background-color: #723A20;
+    border-radius: 1px;
+    box-shadow: 0px 0px 0px 2px rgba(217, 169, 100,0.25);
+}
+
+.cant {
+    background-color: #723A20;
+}
+
+.cantitate {
+    font-family: "Roboto Slab";
+    font-size: 16px;
+    margin:3px;
+}
+
+.shop {
+    margin-left: 30%;
+    padding-left: 28px;
+    font-family: "Cantata One";
+    font-size: 16px;
+    padding-top: 12px;
+}
+
+.pret_total {
+    text-align: center;
+    font-family: "Abril Fatface";
+    font-size: 25px;
+}
+
+.but_align {
+    display: table;
+    margin: 0 auto;
+    margin-top:10px;
+}
+
+/* Order */
+.radio_class {
+    font-family: "Roboto Slab";
+    font-size: 16px;
+    padding-top: 1rem;
+}
+
+/* User */
+.username {
+    font-family: "Bree Serif";
+    font-size: 18px;
+    padding-top: 1rem;
+}
+
+.useremail, .userrole {
+    font-family: "Roboto Slab";
+    font-size: 14px;
+    padding-top: 1rem;
+}
+
+.usershow {
+    background-color: #9E6336;
+    border: solid #723A20;
+}
+
+.panel-user {
+    background-color: #9E6336;
+}
+
+.useredit {
+    margin-left: 1rem;
+    font-family: "Cantata One";
+    color: #c19a6b;
+    background-color: #723A20;
+}
+
+.userdelete {
+    margin-right: 1rem;
+    font-family: "Cantata One";
+    color: #c19a6b;
+    background-color: #723A20;
+}
+
+.dropdown_role {
+    background-color: #723A20;
+    border: 1px dotted #9E6336;
+    font-family: "Roboto Slab";
+    font-size: 16px;
+    color: #c19a6b;
+}
+
+.rev {
+    background-color: #c19a6b;
+}
+
+.prod-show {
+    background-color: #723A20;
+    border: 1px dotted #9E6336;
+    font-family: "Roboto Slab";
+    font-size: 16px;
+    color: #c19a6b;
+}
+
+#txt {
+    font-family: "Roboto Slab";
+    font-size: 16px;
+   
+}
+
+.color_register a {
+    color: #723A20;
+    font-family: "Roboto Slab";
+    font-size: 16px;
+}
+
+.title2 {
+    font-family: "Cantata One";
+    font-size: 20px;
+    margin-top: 20px;
+    color:#723A20 ;
+}
