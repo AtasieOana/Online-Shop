@@ -1,5 +1,5 @@
 # Online Shop
- Web application developed in ASP.NET MVC5 using C#
+ **Web application developed in ASP.NET MVC5 using C#**
  
 ### Features
 * There are four types of users (unregistered user, registered user, collaborator, administrator).
