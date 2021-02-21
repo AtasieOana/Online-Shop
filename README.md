@@ -10,3 +10,11 @@
 * When an order is placed, the user will receive a confirmation email.
 * The administrator has full control over the application ( he can add, view, edit, delete any element of the application).
 
+## Project opening
+The project can be opened using Visual Studio. Visual Studio 2017 was used for its construction with the following workloads: 
+* .NET desktop development, 
+* Universal Windows Platform development, 
+* ASP.NET and web development, 
+* Data Storage and processing, 
+* .NET Core cross-platform development.
+
