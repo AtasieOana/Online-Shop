@@ -8,5 +8,5 @@
 * The collaborating user can add products to the store. Requests for additions will be sent to the administrator, who may reject or approve them. After approval, the products can be viewed in the store.
 * The unregistered user can only view the products and the comments associated with them. When he becomes a registered user he can place orders and leave reviews, which he can later edit or delete.
 * When an order is placed, the user will receive a confirmation email.
-* The administrator has full control over the application ( he can add, view, edit, delete any element of the application)
+* The administrator has full control over the application ( he can add, view, edit, delete any element of the application).
 
