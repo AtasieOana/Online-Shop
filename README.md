@@ -18,3 +18,14 @@ The project can be opened using Visual Studio. Visual Studio 2017 was used for i
 * Data Storage and processing, 
 * .NET Core cross-platform development.
 
+## What the application looks like
+
+[![DAW1.png](https://i.postimg.cc/fkQSLPjp/DAW1.png)](https://postimg.cc/SYVx1DPf)
+
+[![DAW2.png](https://i.postimg.cc/RCy8Sx2h/DAW2.png)](https://postimg.cc/6TVzcgWx)
+
+[![DAW3.png](https://i.postimg.cc/J4XFtdWq/DAW3.png)](https://postimg.cc/XpVLzLqG)
+
+[![DAW4.png](https://i.postimg.cc/K8rsDkj3/DAW4.png)](https://postimg.cc/BjbgqvxJ)
+
+
