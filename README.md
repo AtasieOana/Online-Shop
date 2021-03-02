@@ -3,7 +3,7 @@
 
 ## Team members
 
-[Elena Ilies](https://github.com/elenailies)
+[Elena Ilies](https://github.com/elenailies) \
 [Atasie Oana](https://github.com/AtasieOana)
 
 ## Features
