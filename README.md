@@ -1,6 +1,11 @@
 # Online Shop
  **Web application developed in ASP.NET MVC5 using C#**
- 
+
+## Team members
+
+[![Elena Ilies](https://github.com/elenailies)
+[![Atasie Oana](https://github.com/AtasieOana)
+
 ## Features
 * There are four types of users (unregistered user, registered user, collaborator, administrator).
 * The products belong to the categories that only the administrator can add.
