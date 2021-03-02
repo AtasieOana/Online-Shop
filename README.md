@@ -3,8 +3,8 @@
 
 ## Team members
 
-* [Elena Ilies](https://github.com/elenailies) 
 * [Atasie Oana](https://github.com/AtasieOana)
+* [Elena Ilies](https://github.com/elenailies) 
 
 ## Features
 * There are four types of users (unregistered user, registered user, collaborator, administrator).
